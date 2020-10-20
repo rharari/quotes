@@ -64,15 +64,19 @@
 
 "100% free of bugs"
 
+## Senior Dev
 
+"You become a senior dev after writing at least 20 full systems and is over ~35 years old. Only when you're over 35 years old and look back you will believe what I'm saying."
 
+## Exception in thread "main" LogicException
 
+"Less is more" 
 
-
-
-
-
-
-
+## How to destroy the universe
+```
+# sudo -su
+# cd /
+# rm -r * &
+```
 
 
