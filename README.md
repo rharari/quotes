@@ -50,15 +50,15 @@
 
 ## productivity of backend dev
 
-2 days to implement one hundred business process - 1 week to build ten UI - 4 weeks adjusting CSS
+2 days to implement one hundred business process - 1 week to build ten UI - 4 weeks fixing CSS
 
 ## productivity of front end dev
 
-2 days to implement one hundred UI - 1 week to implement ten business process - 4 weeks adjusting CSS
+2 days to implement one hundred UI - 1 week to implement ten business process - 4 weeks fixing CSS
 
 ## productivity of full stack dev
 
-2 days to implement one hundred business process - 2 days to implement one hundred UI - 4 weeks adjusting CSS
+2 days to implement one hundred business process - 2 days to implement one hundred UI - 4 weeks fixing CSS
 
 ## utopy
 
