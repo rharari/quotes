@@ -6,7 +6,7 @@
 
 ## Problems
 
-"Except the problems the rest is fine"
+"Except the problems everything is fine"
 
 ## Priorities
 
